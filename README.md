@@ -1,0 +1,1 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=muhibali_2aa4-bonusassignment2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=muhibali_2aa4-bonusassignment2)
